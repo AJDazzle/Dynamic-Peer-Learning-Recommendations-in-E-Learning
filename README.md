@@ -2,13 +2,13 @@ Dynamic Peer Learning Recommendations in E-Learning
 A Hybrid Recommendation System using Collaborative Filtering, BERT Embeddings, and Interaction-Based Clustering
 
 Table of Contents  
-- [Introduction](#introduction)  
-- [Features](#features)  
-- [Dataset](#dataset)  
-- [Algorithms Implemented](#algorithms-implemented)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Evaluation Metrics](#evaluation-metrics)
+- Introduction
+- Features  
+- Dataset  
+- Algorithms Implemented  
+- Installation  
+- Usage 
+- Evaluation Metrics
 
  Introduction  
 This project focuses on creating a hybrid recommendation system to enhance e-learning platforms by dynamically grouping learners, tracking their progress, and providing highly personalized content recommendations. The system integrates:  
